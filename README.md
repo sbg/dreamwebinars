@@ -6,7 +6,7 @@ Slides and resources to accompany the DREAM Challenge webinars.
 Helper functions for the Python client of the Seven Bridges API. Used in each notebook.
 
 ## DREAM Notebook
-Working with the SMC-RNA DREAM Challenge Public Project
+Working with the SMC-RNA DREAM Challenge Public Project, including running the smcIsoform-RSEM-workflow on training data and evaluating the outputs.
 
 ## Evaluation Kallisto
 Using the accuracy of `kallisto quant` by batch-analyzing training data with workflow. In addition, batch-evaluating the outputs in a separate workflow.
