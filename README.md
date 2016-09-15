@@ -1,4 +1,4 @@
-# SMC-RNA DREAM Challenge Webinars - Sept 2016
+# SMC-RNA DREAM Challenge Webinars
 
 This repository contains slides and resources to accompany the DREAM Challenge webinars:
 
