@@ -1,6 +1,6 @@
 # SMC-RNA DREAM Challenge Webinars
 
-This repository contains slides and resources to accompany the DREAM Challenge webinars:
+This repository contains slides and resources to accompany the [DREAM Challenge](http://www.cancergenomicscloud.org/dreamchallenge/) webinars:
 
 [Webinar 1 - Visual Interface](https://www.youtube.com/watch?v=JdCsL_MSOrE)
 
@@ -19,5 +19,5 @@ To use the notebooks below, you will want to 1. copy the DREAM Challenge Project
 ### DREAM Notebook
 A note which walks through the SMC-RNA DREAM Challenge Public Project, including how to submit tasks in which the `smcIsoform-RSEM-workflow` is run with DREAM Challenge training data. In addition, how to evaluating the outputs of your workflow against truth sets.
 
-### Evaluation Kallisto
+### Evaluating Kallisto
 This notebook describes how to run `kallisto_quant.cgc.cwl` to evaluate the accuracy of `kallisto quant` with training data.
