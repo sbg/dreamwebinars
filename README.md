@@ -6,7 +6,7 @@ This repository contains slides and resources to accompany the [DREAM Challenge]
 
 * [Webinar 2 - Python and API](https://www.youtube.com/watch?v=tDzzRq4YN9M)
 
-Documentation for the Seven Bridges Cancere Genomics Cloud can be found at the [CGC Knowledge Center](http://docs.cancergenomicscloud.org/v1.0/docs/dream-challenge).
+Documentation for the Seven Bridges Cancer Genomics Cloud (CGC) can be found at the [CGC Knowledge Center](http://docs.cancergenomicscloud.org/v1.0/docs/dream-challenge).
 
 ### Helper Functions
 
@@ -14,7 +14,8 @@ Documentation for the Seven Bridges Cancere Genomics Cloud can be found at the [
 
 ## Notebooks
 
-Before usig the notebooks below, you will want to do the following:
+Before using the notebooks below, you will want to do the following:
+
 1. [Copy](http://docs.cancergenomicscloud.org/v1.0/docs/dream-challenge#section-copy-the-icgc-tcga-dream-somatic-mutation-calling-public-project) the DREAM Challenge Project on the CGC visual interface.
 2. [Set up](https://github.com/sbg/okAPI/blob/master/Tutorials/SBPLAT/Setup_API_environment.ipynb) your API environment variables.
 3. Change the IDs for username, project, ID, etc. in the notebooks to your own.
